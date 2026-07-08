@@ -1,0 +1,28 @@
+#Box{
+    background-color: bisque;
+    color:brown;
+
+}
+.Heading{
+    font-size: 20px;
+}
+p{
+    font-family:serif;
+    line-height: 20px;
+    text-transform:lowercase;
+}
+h1{
+    text-align: left;
+    text-decoration: underline;
+    color: brown;
+}
+h2{
+    text-transform: capitalize;
+   text-align: center;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
